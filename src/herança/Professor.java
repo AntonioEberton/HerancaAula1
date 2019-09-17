@@ -1,6 +1,6 @@
 package herança;
 
-public class Professor {
+public class Professor extends Pessoa{
 
     private String cursos;
     private double salario;

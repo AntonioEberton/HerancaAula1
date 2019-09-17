@@ -1,6 +1,6 @@
 package herança;
 
-public class Estudante{
+public class Estudante extends Pessoa{
 
     private String curso;
 
